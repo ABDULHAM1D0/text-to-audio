@@ -7,18 +7,14 @@ A simple Python project that converts text from a file into an audio file using 
 - Lightweight and beginner-friendly.
 
 ## Technologies Used
-Python
-
-gTTS
-
-os (for file handling)
+- Python
+- gTTS
+- os (for file handling)
 
 ## Future Improvements
-Add adjustable voice, speed, and language options.
-
-Build a GUI for easier interaction.
-
-Support multiple input formats like PDF or DOCX.
+- Add adjustable voice, speed, and language options.
+- Build a GUI for easier interaction.
+- Support multiple input formats like PDF or DOCX.
 
 ## Dataset
-No dataset is required; the project works with any text file provided by the user.
+- No dataset is required; the project works with any text file provided by the user.
