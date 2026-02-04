@@ -8,6 +8,7 @@ from gtts import gTTS
 text = ""
 
 def open_file():
+    # this function takes file from user.
     file_location = askopenfilename()
     return file_location
 
@@ -26,7 +27,7 @@ def working():
     audio_file.save(f"Audio {file_name[0]}.mp3")
     print("done")
 
-#Build interface
+#Build interface.
 window = Tk()
 window.title("Pdf to Audio converter")
 window.geometry("300x100")
